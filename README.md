@@ -10,6 +10,6 @@
 
 [Principio de Subsidiariedad](https://es.wikipedia.org/wiki/Principio_de_subsidiariedad)
 
-(Quadragesimo Anno)[https://www.vatican.va/content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno.html]
+[Quadragesimo Anno](https://www.vatican.va/content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno.html)
 
 
